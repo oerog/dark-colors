@@ -7,6 +7,11 @@
 }
 
 .twitter-sidebar {display: none!important;}
+/********** category boxes ******/
+.navigation-categories.categories-list #main.kony  {
+    background-color: #222;
+}
+
 /********** sidebar ***********/
 .topic-list thead   {     
     background-color:#444 !important; 
@@ -125,12 +130,10 @@ nav.post-controls  .create:hover {
     background-color:#ddd;
     color:#2572e4;
 }
-
 .suggested-topics {
-    margin: 10px 00px 0 0 ;
+    margin: 10px 0 0 0 ;
     padding: 25px  0;
-    width: 98%;
-    max-width: 800px;    
+    width: 95%;
 }
 .nav-pills>li a.active {
     background-color: #5485CC;
